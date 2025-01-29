@@ -1,0 +1,18 @@
+Classifique a frase abaixo em uma das seguintes categorias: "Sexismo Hostil", "Sexismo Benevolente" ou "Não Contém".
+
+Exemplo 1:
+Frase: "ela é princesinha"
+Categoria: Sexismo Benevolente
+
+Exemplo 2:
+Frase: "novinha ninfeta"
+Categoria: Sexismo Hostil
+
+Exemplo 3:
+Frase: "ela é muito inteligente"
+Categoria: Não Contém
+
+Agora classifique a seguinte frase:
+
+Frase: {phrase}
+Categoria:
