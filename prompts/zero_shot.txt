@@ -1,0 +1,4 @@
+Classifique a frase abaixo em uma das seguintes categorias: "Sexismo Hostil", "Sexismo Benevolente" ou "Não Contém".
+
+Frase: {phrase} Por favor, apenas classifique esta frase sem adicionar exemplos adicionais.
+Categoria:
