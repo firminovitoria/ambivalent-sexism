@@ -21,19 +21,19 @@ O **sexismo ambivalente** é caracterizado pela coexistência de discursos **hos
 
 ## ⚙️ Modelos Utilizados
 
-Os seguintes algoritmos foram implementados e comparados:
+Os modelos implementados neste repositório são:
 
-1. Regressão Logística  
-2. Naive Bayes  
-3. SVM (Support Vector Machines)  
-4. Decision Tree  
-5. Random Forest  
-6. Gradient Boosting  
-7. XGBoost  
-8. Redes Neurais Feedforward (MLP)  
-9. LSTM  
-10. BERTimbau (Fine-Tuning)  
-11. GPT-based Classifier (Zero/Few-Shot Prompting)  
+1. **Albertina 100M** (`albertina_100m.py`)  
+2. **Bernice** (`bernice.py`)  
+3. **BERT Multilingual (Uncased)** (`bert_multilingual.py`)  
+4. **BERTaPóru Base** (`bertabaporu_base.py`)  
+5. **BERTaPóru Large** (`bertabaporu_large.py`)  
+6. **BERTimbau Base** (`bertimbau_base.py`)  
+7. **BERTimbau Large** (`bertimbau_large.py`)  
+8. **BERTweetBR** (`bertweetbr.py`)  
+9. **DistilBERT Base Multilingual Cased** (`distilbert_base_multilingual_cased.py`)  
+10. **XLM-RoBERTa Base** (`xlm_roberta_base.py`)  
+11. **BERT Multilingual (Ilustração)** (`bert-multilingual-uncased.png`) 
 
 ---
 
